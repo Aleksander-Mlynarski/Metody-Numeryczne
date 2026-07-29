@@ -1,0 +1,6 @@
+.DS_STORE
+.github
+.vscode
+.idea
+.venv
+__pycache__/
